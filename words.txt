@@ -1,0 +1,64 @@
+abhängen,von,DAT
+abstimmen,über,AKK
+achten,auf,AKK
+anfangen,mit,DAT
+ankommen,auf,AKK
+antworten,auf,AKK
+arbeiten,an,DAT
+sich ärgern,über,AKK
+auffordern,zu,DAT
+aufhören,mit,DAT
+aufklären,über,AKK
+aufpassen,auf,AKK
+sich aufregen,über,AKK
+ausgeben,für,AKK
+sich bedanken,bei,DAT,für,AKK
+beginnen,mit,DAT
+sich bemühen,um,AKK
+berichten,über,AKK
+sich beschäftigen,mit,DAT
+sich beschweren,bei,DAT,über,AKK
+bestehen,aus,DAT
+sich beteiligen,an,DAT
+sich bewerben,um,AKK
+sich beziehen,auf,AKK
+bitten,um,AKK
+danken,für,AKK
+denken,an,AKK
+diskutieren,mit,DAT,über,AKK
+sich drehen,um,AKK
+einladen,zu,DAT
+sich einigen,auf,AKK
+sich einsetzen,für,AKK
+sich entscheiden,für,AKK
+sich entschuldigen,bei,DAT,für,AKK
+erfahren,von,DAT
+sich erholen,von,DAT
+sich errinern,an,AKK
+erkennen,an,DAT
+sich erkundigen,bei,DAT,nach,DAT
+erschrecken,über,AKK
+erzählen,von,DAT,über,AKK
+fehlen,an,DAT
+fragen,nach,DAT
+sich freuen,auf,AKK,über,AKK
+#führen,zu,DAT
+#sich fürchten,vor,DAT
+#gehen,um,AKK
+#gehören,zu,DAT
+#gelten,als,NOM
+#sich gewöhnen,an,AKK
+#glauben,an,AKK
+#gratulieren,zu,DAT
+#halten,für,AKK,von,DAT
+#sich halten,an,AKK
+#sich handeln,um,DAT
+#handeln,von,DAT
+#helfen,bei,DAT
+#hindern,an,DAT
+#hin weisen,auf,AKK
+#hoffen,auf,AKK
+#hören,von,DAT
+#impfen,gegen,AKK
+#sich informieren,bei,DAT,über,AKK
+#sich interessieren,für,AKK
