@@ -18,3 +18,5 @@ print out the correct answer(s) and a translation for the verb (if available).
 verb,preposition,case-for-preposition
 or
 verb,preposition,case-for-preposition,second-preposition,case-for-second-preposition
+
+lines that begin with `#` are ignored
